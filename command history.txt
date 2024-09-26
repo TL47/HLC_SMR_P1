@@ -1,3 +1,3 @@
-git clone https://github.com/creyaro/HLC_SMR_P1
+.
 git checkout -b triana_lopez_v1
 git push --set-upstream origin triana_lopez_v1
